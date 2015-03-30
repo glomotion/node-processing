@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"selected",
+				"selectedPreset"
+			],
+			[
+				"json",
+				"angular.fromJson"
+			],
+			[
+				"makeNew",
+				"makeNewTheme"
+			],
+			[
+				"newTheme",
+				"newThemeSync"
+			],
+			[
+				"$firebase",
+				"$firebaseArray"
+			],
+			[
+				"curren",
+				"currentStyles"
+			],
+			[
+				"hie",
+				"header-height"
+			],
+			[
+				"panes",
+				"panesAndCounting"
+			],
+			[
+				"theme",
+				"themeNeeded"
+			],
+			[
+				"light",
+				"light-off-black"
+			],
+			[
+				"safer",
+				"saferLessData"
+			],
+			[
+				"getElement",
+				"getElementById"
+			],
+			[
+				"header",
+				"headerStyleMade"
+			],
+			[
+				"firebase",
+				"firebaseData"
+			],
+			[
+				"direct",
+				"directive	Angular.js"
+			],
+			[
+				"direc",
+				"directivelong	Angular.js"
+			],
+			[
+				"begin",
+				"beginPoemCreation"
+			],
+			[
+				"sign",
+				"signInWith"
+			],
+			[
+				"Firebase",
+				"FirebaseService"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"Fireba",
+				"FirebaseService"
+			],
+			[
+				"$wat",
+				"angular: $watchCollection"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"ser",
+				"service	AngularJS"
+			],
+			[
+				"controller",
+				"controller	AngularJS"
+			],
+			[
+				"contro",
+				"angular: controller"
+			],
+			[
+				"dire",
+				"directive	Angular.js"
+			],
+			[
+				"first-",
+				"first-of-type"
+			],
+			[
+				"pa",
+				"paginate-btn"
+			],
+			[
+				"new",
+				"newDataToShow"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"live",
+				"livereload"
+			],
+			[
+				"off",
+				"light-off-black"
+			],
+			[
+				"quan",
+				"quantum-lightgreen"
+			],
+			[
+				"defa",
+				"defaultMode"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"quantum-",
+				"quantum-skyblue"
+			],
+			[
+				"bite",
+				"bitey-cons"
+			],
+			[
+				"quantum",
+				"quantum-grey"
+			],
+			[
+				"getElements",
+				"getElementsByTagName"
+			],
+			[
+				"display",
+				"display-mode-toggle"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"bottom",
+				"bottom-sheet-height"
+			],
+			[
+				"icon",
+				"icon-unicode"
+			],
+			[
+				"side",
+				"sidebar-theme-color"
+			],
+			[
+				"css",
+				"css-ellipsis"
+			],
+			[
+				"off-",
+				"off-white"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"indi",
+				"quantum-indigo"
+			],
+			[
+				"ind",
+				"quantum-indigo"
+			],
+			[
+				"element",
+				"elementToScrollTo"
+			],
+			[
+				"hit",
+				"sidebarHitzone"
+			],
+			[
+				"sidebar",
+				"sidebarHitzone"
+			],
+			[
+				"prev",
+				"mdtabs-prev-paginate"
+			],
+			[
+				"p",
+				"pt	padding-top"
+			],
+			[
+				"no-",
+				"no-repeat"
+			],
+			[
+				"car",
+				"carouselState"
+			],
+			[
+				"slow",
+				"slow_offset"
+			],
+			[
+				"pane",
+				"pane_offset"
+			],
+			[
+				"the",
+				"theme-color"
+			],
+			[
+				"head",
+				"header-height"
+			],
+			[
+				"tabs",
+				"tabsWidth"
+			],
+			[
+				"fail",
+				"startupFailure"
+			],
+			[
+				"goog",
+				"google-blue"
+			],
+			[
+				"curr",
+				"currentCard"
+			],
+			[
+				"carouse",
+				"carouselUpdating"
+			],
+			[
+				"noti",
+				"notifyMode"
+			],
+			[
+				"user",
+				"userCards"
+			],
+			[
+				"card",
+				"cardId"
+			],
+			[
+				"Un",
+				"UNOWNED_LEVEL"
+			],
+			[
+				"deta",
+				"detailCards"
+			],
+			[
+				"height",
+				"signin-btn-height"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"splash",
+				"splash-horiz-gutter"
+			],
+			[
+				"$sta",
+				"$stateProvider"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"liht",
+				"light-off-black"
+			],
+			[
+				"webkit-user",
+				"webkit-user-select"
+			],
+			[
+				"pointer",
+				"pointer-events"
+			],
+			[
+				"mint",
+				"mint-color"
+			],
+			[
+				"acu",
+				"actualCard"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"google",
+				"google-red"
+			],
+			[
+				"teal",
+				"ballet-teal"
+			],
+			[
+				"dark",
+				"dark-off-white"
+			],
+			[
+				"corner",
+				"corner-size"
+			],
+			[
+				"nex",
+				"nextCard"
+			],
+			[
+				"cards",
+				"cardsRecieved"
+			],
+			[
+				"app-",
+				"app-header"
+			],
+			[
+				"ng-",
+				"ng-leave"
+			],
+			[
+				"translate",
+				"translateAmount"
+			],
+			[
+				"all",
+				"allCollections"
+			],
+			[
+				"spa",
+				"space-factor"
+			],
+			[
+				"fact",
+				"space-factor"
+			],
+			[
+				"font",
+				"font-factor"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"opa",
+				"opacityAmount"
+			],
+			[
+				"opacity",
+				"opacitySteps"
+			],
+			[
+				"break",
+				"BREAKPOINT"
+			],
+			[
+				"sta",
+				"stayInPlace"
+			],
+			[
+				"trn",
+				"translateAmount"
+			],
+			[
+				"pull",
+				"pullCloseHandler"
+			],
+			[
+				"puller",
+				"pullerMode"
+			],
+			[
+				"$cont",
+				"$container"
+			],
+			[
+				"app",
+				"app-header-height"
+			],
+			[
+				"lazy",
+				"lazyImages"
+			],
+			[
+				"laz",
+				"lazyImages"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"pullDo",
+				"pullDownListener"
+			],
+			[
+				"web",
+				"webkit-transform"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"contain",
+				"containerWidth"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"screen",
+				"screen-container"
+			],
+			[
+				"perc",
+				"percentComplete"
+			],
+			[
+				"transla",
+				"translateAmount"
+			],
+			[
+				"reset",
+				"resetModes"
+			],
+			[
+				"read",
+				"readWrite"
+			],
+			[
+				"ali",
+				"alice-in-wondercons"
+			],
+			[
+				"option",
+				"optionalMessage"
+			],
+			[
+				"status",
+				"statusWidth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "moo.svg",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "moo2.json",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "parse-svg.js",
+			"settings":
+			{
+				"buffer_size": 1086,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/timpaul/Desktop/GIT-Repos/node-processing"
+	],
+	"file_history":
+	[
+		"/Users/timpaul/Desktop/moo/index.html",
+		"/Users/timpaul/Desktop/parse.js",
+		"/Users/timpaul/Desktop/AMIfv94qKKm862JNfNO4T0-e2nmqOM2AQJk7Yqap3opq7yRwjvNPwzH2lrN2HkF-qgIUYgY0z7AEFrtYJkL3oJTkHZZKB_Y_cVdzZ8FOdOFrRM58FnSm7qODhm8U3oYrIRJ--j6r_FHuIkfetCUeYRXRgvV6LMOpYzC0FvqBgSJ8UDuGVkt8pC8",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/app.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/firebase.json",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/poem-author.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/hammer-carousel.2.0.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/app-header.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/utils.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/poem-carousel.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/sidebar.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/theme.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/poem.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/package.json",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/templates/login.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-zenpoetry/bower.json",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/style/scss/app.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/templates/poems.html",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/index.html",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/templates/poem.html",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/bower.json",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/.gitignore",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/style/css/app.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/app.css",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/style-template.html",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/iframe.html",
+		"/Users/timpaul/Desktop/GIT-Repos/testing-angularfire/render-app.js",
+		"/Users/timpaul/Desktop/Google Drive/Stock Media/OSX Software/sublime-replacement-tilted/README.md",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/fullscreen-image.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/inline-image.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/lib/angular-colorthief.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/main.py",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/services.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/bites.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/gulpfile.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/app.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/bower.json",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/body.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/index.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/pikelet-footer.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/controllers.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/stylesheets/scss/admin.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/stylesheets/scss/pikelet.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/lib/angular-material-custom.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/example.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/fullscreen-video.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/jumpable.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/inline-video.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/expandable.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/common-bite-elements.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/stylesheets/scss/smarties.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/sidebar-content.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/body.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/directives/ui.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/directives/sidebar-content.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/view-container.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/controllers.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/templates/sidebar-content.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/lib/hammer-carousel.2.0.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/templates/body.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/app.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/templates/bottom-sheet.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/services.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/common-bite-elements.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/sidebar-content.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app.yaml",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/error.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/.gitignore",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/pagination.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/bar-graph.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/bar-graph-geo.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/carousel.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/app.js",
+		"/Users/timpaul/Desktop/moo.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/sticky-footer.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/config.rb",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/error/config.rb",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/sticky-footer.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/google-footer.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/controllers.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/error/stylesheets/scss/error.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/carousel.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/slides.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/directives/sidebar-content.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/config.rb",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/stylesheets/scss/404.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/templates/custom-bottom-sheet.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/directives/custom-bottom-sheet.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/login.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/custom-bottom-sheet.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/services/bite.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/lib/angular-material-custom.js.old.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/carousel.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/directives/sidebar-content.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/services/googleservice.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/services/auth.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/lib/google-plus-signin.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/services/vis-spreadsheet.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/utils.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/chapter.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/fab-button.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/stylesheets/scss/_common.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/chapter.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/main.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/directives/bites.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/templates/sidebar.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/title.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/data-point.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/swipe-elements.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/map.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/link.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/image.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/quote.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/video.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/counter.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bites/checklist.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/smarties/templates/bite.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/main.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/tabbed-page.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/tabbed-page.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/bottom-sheet.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/templates/bites/big-button.html",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/stylesheets/scss/_opinionated-defaults.scss",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/services/bite.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/common/directives/sidebar.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/services/services.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/pikelet/main.js",
+		"/Users/timpaul/Desktop/GIT-Repos/cl-syd-bitesize/app/admin/templates/sidebar.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/static/js/os",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/static/js",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/static/js/os",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/static/js",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/static/js",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/",
+			"/Users/timpaul/Desktop/GIT Repos/rh-prototype/core/static/js",
+			"/Users/timpaul/Desktop/GIT Repos/rabbithole-dogfood"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"px",
+			"author",
+			"makeNewTheme",
+			"rout",
+			"currentStyles",
+			"selectedPreset",
+			"poemId",
+			"edit",
+			"sass",
+			"newlyMadeThemeId",
+			"single",
+			"$bindTo(",
+			"slide",
+			"}}}",
+			" window.less",
+			"editCurrentTheme",
+			"writeNewTheme",
+			"$scope.selectedPreset",
+			"getAll",
+			"h2",
+			"FirebaseService",
+			"$scope.poems",
+			"$rootScope.authors",
+			"$rootScope.authorsPoems",
+			"getSyncedArray",
+			"selectedPreset",
+			"interval",
+			"newPoemSync",
+			"getSyncedObject",
+			"div",
+			"LessThemeStyleData",
+			"Less2Css",
+			"newThemeSync",
+			"loadedOnce",
+			"safeLESSData",
+			"makeHeaderStyleDOM",
+			"getSync",
+			"getSyncedArray",
+			"ref",
+			"query",
+			"authors",
+			"newThemeSync",
+			"headerStyleMade",
+			"newThemeMade",
+			"editorData",
+			"poem",
+			"newPoemSync",
+			"get user",
+			"snap",
+			"scope.themes",
+			"h2",
+			"h1",
+			"beginRoute",
+			"signInThenMake",
+			"$authWithOAuthPopup",
+			"signInWith",
+			"8",
+			"$rootScope.author",
+			"authOk",
+			"codemirror",
+			"\"",
+			"1.3.8",
+			"                ",
+			"$rootScope.authorObject",
+			"poem-2",
+			"poem",
+			"kato@firebase.com",
+			"moo",
+			"Firebase.",
+			"Firebase",
+			"firebase",
+			"Firebase",
+			"firebase",
+			"Firebase",
+			"firebase",
+			"Firebase",
+			"kato@firebase.com",
+			"cssData",
+			"themeList",
+			"poemList",
+			"poems",
+			"id",
+			"userId",
+			".set",
+			"ref.child('poems')",
+			"users",
+			"userRef",
+			"randomTitle",
+			"-",
+			"userId",
+			"user",
+			"css",
+			"#",
+			"1.3.2",
+			"/app/pikelet",
+			"type=\"text/javascript\" ",
+			"css",
+			"</p>",
+			"ng-cli",
+			"href=\"\"",
+			"https:",
+			"create",
+			"1rUH1kDk7d19ouqbHW7a_xdTYOOaY1_nX7KUlRvfbSgw",
+			"full-screen",
+			"ull-screen",
+			":after",
+			"\"/CHAPTER\"",
+			"\"CHAPTER\"",
+			"@media",
+			"font-size",
+			"sticky",
+			"stickyFooter",
+			"sticky-footer",
+			"$cookies.visitedAlready",
+			"angular-aria",
+			"bottomsheet",
+			"mdBottom",
+			"top-level-listing",
+			"nth-of-type",
+			"paginate",
+			"paginatae",
+			"pagina",
+			"pagin",
+			"atEnd",
+			"shouldAnimate",
+			"control",
+			"pointer-events",
+			"experime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "moo.svg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "moo2.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "parse-svg.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "processing.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
